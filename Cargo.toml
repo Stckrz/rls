@@ -2,6 +2,7 @@
 name = "rls"
 version = "0.1.0"
 authors = ["Stckrz rin449@gmail.com"]
+license = "MIT"
 description = "just ls without long form but a little cuter"
 repository = "https://github.com/stckrz/rls"
 keywords = ["cli", "files"]
