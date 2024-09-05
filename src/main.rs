@@ -1,6 +1,6 @@
-use rls::list_files;
+use stckrls::list_files;
 use std::process;
-use rls::Args;
+use stckrls::Args;
 use clap::Parser;
 
 
