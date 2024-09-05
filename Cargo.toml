@@ -1,5 +1,5 @@
 [package]
-name = "rls"
+name = "stckrls"
 version = "0.1.0"
 authors = ["Stckrz rin449@gmail.com"]
 license = "MIT"
