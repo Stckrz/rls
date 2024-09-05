@@ -1,6 +1,11 @@
 [package]
 name = "rls"
 version = "0.1.0"
+authors = ["Stckrz rin449@gmail.com"]
+description = "just ls without long form but a little cuter"
+repository = "https://github.com/stckrz/rls"
+keywords = ["cli", "files"]
+categories = ["command-line-utilities"]
 edition = "2021"
 
 [dependencies]
