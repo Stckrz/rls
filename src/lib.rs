@@ -121,7 +121,6 @@ pub fn list_files(args: Args) -> std::io::Result<()>{
                 Cell::new(file.file_size),
                 Cell::new(file.mod_date),
                 ]);
-        println!("{:?}", file.metadata.permissions());
             }
         println!("{}", table);
     }else{
