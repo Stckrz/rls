@@ -1,6 +1,6 @@
 [package]
 name = "stckrls"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Stckrz rin449@gmail.com"]
 license = "MIT"
 description = "just ls without long form but a little cuter"
