@@ -1,6 +1,6 @@
 [package]
 name = "stckrls"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Stckrz rin449@gmail.com"]
 license = "MIT"
 description = "just ls without long form but a little cuter"
@@ -12,3 +12,5 @@ edition = "2021"
 [dependencies]
 colored = "2.1.0"
 clap = {version = "4.5.17", features = ["derive"]}
+chrono = "0.4.38"
+comfy-table = "7.1.1"
